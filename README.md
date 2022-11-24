@@ -53,6 +53,8 @@ $ mvn clean install
 
 # Run the app using an IDE
 ```
+> **Note**
+> The data base sql is in the file ressources/db.dll/init_db.sql . 
 
 ## Support
 
