@@ -44,6 +44,14 @@ public class User {
     public User() {
     }
 
+    public User( String name, LocalDate birthDate, String country, String phone, Gender gender) {
+        this.name = name;
+        this.birthDate = birthDate;
+        this.country = country;
+        this.phone = phone;
+        this.gender = gender;
+    }
+
     public Long getId() {
         return id;
     }

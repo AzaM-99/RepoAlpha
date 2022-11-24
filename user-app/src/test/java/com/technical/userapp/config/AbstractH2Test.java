@@ -16,6 +16,4 @@ import org.springframework.transaction.annotation.Transactional;
 public abstract class AbstractH2Test {
 
 
-    protected static final String FILE_RESOURCES_FOLDER = "src/test/resources/files/";
-
 }
